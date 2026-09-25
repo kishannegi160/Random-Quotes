@@ -1,5 +1,21 @@
+body{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    
+}
 button{
     font-size: 20px;
     background-color: aquamarine;
     
+}
+#first{
+    text-align: center;
+    background-color: antiquewhite;
+    height: 150px;
+    width: 900px;
+}
+#first,h1{
+    color: brown;
 }
