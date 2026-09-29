@@ -1,10 +1,10 @@
-body{
-    text-align: center;
+.container{
+    display: flex;
     justify-content: center;
     align-items: center;
-    display: flex;
-    
+    height: 700px;
 }
+
 button{
     font-size: 20px;
     background-color: aquamarine;
@@ -19,3 +19,4 @@ button{
 #first,h1{
     color: brown;
 }
+
